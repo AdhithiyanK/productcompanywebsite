@@ -32,7 +32,7 @@ Validate the HTML code.
 
 ### Step 6:
 
-Publish the website in the given URL.
+Publish website in the given URL.
 
 ## PROGRAM :
 
